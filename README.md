@@ -58,7 +58,11 @@ HTML + CSS: Karen Valdivia
 
 Javascript: Paty Arakawa
 
+**7mo Proyecto: Coder's Profile**
 
+url: http://parakawa.github.io/Laboratoria-Javascript/Perfil-Coder/index.html 
 
+Especificaciones Funcionales
 
+Cuando se seleccione un archivo la página debe leer la información de la misma y mostrar en pantalla la miniatura de la página de tal forma que se sepa que archivo es el que se va a enviar al sistema.
 
