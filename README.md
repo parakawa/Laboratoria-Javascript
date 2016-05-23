@@ -1,20 +1,20 @@
-1er Proyecto: To Do App
+*1er Proyecto: To Do App*
 
 url: http://parakawa.github.io/Todo-App/
 
-2do Proyecto: Tic Tac Toe
+*2do Proyecto: Tic Tac Toe*
 
 url: https://parakawa.github.io/Tres-en-raya/
 
-3er Proyecto: Smash Faces
+*3er Proyecto: Smash Faces*
 
 url: http://parakawa.github.io/Smash-Faces/
 
-4to Proyecto: Reloj Digital
+*4to Proyecto: Reloj Digital*
 
 url: http://parakawa.github.io/Reloj-Digital/
 
-5to Proyecto : CineMelon 
+*5to Proyecto : CineMelon*
 
 Filtrar películas por categoría. Se usa el api de OMDB (http://www.omdbapi.com/)
 
@@ -34,7 +34,7 @@ Para obtener la información de las películas pueden utilizar el siguiente enla
 http://www.omdbapi.com/
 
 
-6to Proyecto: Whatsapp Web
+*6to Proyecto: Whatsapp Web*
 
 url: http://parakawa.github.io/Laboratoria-Javascript/Whatsapp-Web/index.html
 
