@@ -1,0 +1,58 @@
+
+
+h1{
+	background-color: #F9A91A;
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+	padding: 14px 0;
+	font-size: 2em;
+}
+
+label{
+
+	font-size: 1.2em;
+}
+
+section{
+	padding: 21px 0;
+}
+
+.select{
+	width: 200px;
+	display: inline-block;
+	margin-left: 14px;
+	height: 28px;
+	padding: 0px 12px;
+}
+
+#lista img{
+	width: 100%;
+}
+
+#lista img:hover{
+	opacity: 0.6;
+}
+
+#lista{
+	margin-top: 21px;
+}
+
+iframe{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#actores img{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
+
+@media (max-width: 600px) {
+  #actores img{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	}
+}
