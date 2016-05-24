@@ -1,26 +1,29 @@
-**1er Proyecto: To Do App**
+Proyectos Javascript Laboratoria
+===============
+
+###1er Proyecto: To Do App
 
 url: http://parakawa.github.io/Todo-App/
 
-**2do Proyecto: Tic Tac Toe**
+###2do Proyecto: Tic Tac Toe
 
 url: https://parakawa.github.io/Tres-en-raya/
 
-**3er Proyecto: Smash Faces**
+###3er Proyecto: Smash Faces
 
 url: http://parakawa.github.io/Smash-Faces/
 
-**4to Proyecto: Reloj Digital**
+###4to Proyecto: Reloj Digital
 
 url: http://parakawa.github.io/Reloj-Digital/
 
-**5to Proyecto : CineMelon**
+###5to Proyecto : CineMelon
 
 Filtrar películas por categoría. Se usa el api de OMDB (http://www.omdbapi.com/)
 
 url: http://parakawa.github.io/Laboratoria-Javascript/CineMelon/index.html
 
-Especificaciones Funcionales
+##Especificaciones Funcionales
 
 El programa tiene siempre dos páginas la primera se muestran todas las categorías y la segunda se muestran cuando le haces clic en una de las películas
 
@@ -34,11 +37,11 @@ Para obtener la información de las películas pueden utilizar el siguiente enla
 http://www.omdbapi.com/
 
 
-**6to Proyecto: Whatsapp Web**
+###6to Proyecto: Whatsapp Web
 
 url: http://parakawa.github.io/Laboratoria-Javascript/Whatsapp-Web/index.html
 
-Especificaciones Funcionales
+##Especificaciones Funcionales
 
 El sistema debe cargar la lista de usuarios de un objeto JSON que tiene la información con quien estoy chateando
 
@@ -58,11 +61,11 @@ HTML + CSS: Karen Valdivia
 
 Javascript: Paty Arakawa
 
-**7mo Proyecto: Coder's Profile**
+###7mo Proyecto: Coder's Profile
 
 url: http://parakawa.github.io/Laboratoria-Javascript/Perfil-Coder/index.html 
 
-Especificaciones Funcionales
+##Especificaciones Funcionales
 
 Cuando se seleccione un archivo la página debe leer la información de la misma y mostrar en pantalla la miniatura de la página de tal forma que se sepa que archivo es el que se va a enviar al sistema.
 
