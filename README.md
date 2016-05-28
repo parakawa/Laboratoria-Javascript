@@ -19,7 +19,7 @@ url: http://parakawa.github.io/Reloj-Digital/
 
 ###5to Proyecto : CineMelon
 
-Filtrar películas por categoría. Se usa el api de OMDB (http://www.omdbapi.com/)
+Filtrar películas por categoría. Se usa el API de movieDB (https://www.themoviedb.org)
 
 url: http://parakawa.github.io/Laboratoria-Javascript/CineMelon/index.html
 
@@ -32,9 +32,6 @@ Al inicio se muestran todas las categorías
 Cuando se selecciona una categoría automáticamente se debe filtrar las películas por la categoría seleccionada
 
 Una vez que le haces click a una película se muestra la siguiente página que tiene el detalle de las películas.
-
-Para obtener la información de las películas pueden utilizar el siguiente enlace:
-http://www.omdbapi.com/
 
 
 ###6to Proyecto: Whatsapp Web
